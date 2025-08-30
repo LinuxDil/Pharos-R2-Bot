@@ -974,7 +974,7 @@ class R2:
                         f"{Fore.WHITE+Style.BRIGHT} {formatted_time} {Style.RESET_ALL}"
                         f"{Fore.CYAN+Style.BRIGHT}... ]{Style.RESET_ALL}"
                         f"{Fore.WHITE+Style.BRIGHT} | {Style.RESET_ALL}"
-                        f"{Fore.BLUE+Style.BRIGHT}All Accounts Have Been Processed.{Style.RESET_ALL}",
+                        f"{Fore.BLUE+Style.BRIGHT}All Accounts Have Been Processed. dont forget join our Discord: https://discord.gg/j8jZ5sBp7Y{Style.RESET_ALL}",
                         end="\r"
                     )
                     await asyncio.sleep(1)
